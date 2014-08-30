@@ -1,3 +1,5 @@
+
+
 header{
 	height: 350px;
 	width: 1060px;
@@ -18,18 +20,6 @@ div.cover{
 
 body{
 	background-image:url('images/bg.jpg');
-}
-
-nav{
-	background-color: #000000;
-	opacity: 0.6;
-	font-size: 20px;
-	height: 24px;
-	width: 1060px;
-	font-family: 'Dancing Script', cursive;
-	top:10px;
-	position: relative;
-
 }
 
 
@@ -167,3 +157,4 @@ footer{
 	background-color: #424242;
 	clear: both;
 }
+
